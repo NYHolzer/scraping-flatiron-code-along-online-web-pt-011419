@@ -29,6 +29,5 @@ class Scraper
     #end
   end
   
-  def 
   
 end
